@@ -1,4 +1,5 @@
-collegeshare
+Share-IT
 ============
 
-Lets students Share/Rent/Sell Used Books, Notes, in college
+
+<b>Lets students Share/Rent/Sell Used Books, Notes, in college</b>
