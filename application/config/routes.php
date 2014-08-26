@@ -38,7 +38,7 @@
 |
 */
 
-$route['default_controller'] = "articles";
+$route['default_controller'] = "shareit";
 $route['404_override'] = '';
 
 

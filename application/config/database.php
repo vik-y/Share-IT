@@ -56,7 +56,7 @@ $db['default']['database'] = 'help_eventchum_db';
 */
 $db['default']['username'] = 'root';
 $db['default']['password'] = 'thanks123';
-$db['default']['database'] = 'help_eventchum_db';
+$db['default']['database'] = 'shareit';
 
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
